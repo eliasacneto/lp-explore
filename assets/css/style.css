@@ -9,6 +9,7 @@
     rgba(52, 49, 147, 1) 0%,
     rgba(48, 44, 99, 1) 100%
   );
+  --light-purple: #cabef6;
 }
 
 * {
@@ -188,6 +189,11 @@ footer {
   color: var(--white);
   height: 5rem;
   font-size: 1.25rem;
+}
+
+footer a {
+  color: var(--light-purple);
+  text-decoration: none;
 }
 @media (min-width: 700px) {
   .header {

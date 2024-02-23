@@ -1,4 +1,4 @@
-<h1 align="center"> Landing Page - Explore </h1>
+<h1 align="center"> Landing Page - Explore 🧑‍🚀</h1>
 
 <br>
 
