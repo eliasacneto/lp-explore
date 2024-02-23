@@ -6,6 +6,8 @@
 
 This project was provided by Rocketseat course that the goal is build a landing page using the mobile-first.
 
+Demo link: https://lpexplore.netlify.app/
+
 ## 🔖 Layout
 
 You can view the project's layout from [this link](https://www.figma.com/file/OL7TU5WT5vUM6ImuWjNNdN/Explore-sem-limites-Copy?fuid=1175785572584714384). To access is neccessary to have an account on [Figma](https://figma.com).
