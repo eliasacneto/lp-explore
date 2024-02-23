@@ -21,7 +21,7 @@ This project was developed using this following techs:
 - Figma
 
 <p align="center">
-  <img alt="project landing page" src="./assets/img/lp-screenshot.png" width="100%">
+  <img alt="project landing page" src="./assets/img/screenshot.png" width="100%">
 </p>
 
 This project was developed following the instructions from Rocketseat <br>:rocket: [Rocketseat community on Discord](https://discord.gg/rocketseat)
