@@ -188,7 +188,7 @@ footer {
   background: var(--blue-linear-bg);
   color: var(--white);
   height: 5rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 footer a {
@@ -321,5 +321,16 @@ footer a {
   }
   .btn-form:hover {
     background: var(--blue-bg);
+  }
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--blue-linear-bg);
+    color: var(--white);
+    height: 5rem;
+    font-size: 1.25rem;
   }
 }
