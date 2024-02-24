@@ -20,13 +20,13 @@ This project was developed using this following techs:
 - Git & Github
 - Figma
 
-## 📱 Screenshot Mobile
+## 📱 Screenshot on Mobile
 
 <p align="center">
     <img alt="project landing page" src="./assets/img/screenshot-mobile.png" width="30%">
 </p>
 
-## 🖥️ Screenshot Desktop
+## 🖥️ Screenshot on Desktop
 
 <p align="center">
     <img alt="project landing page" src="./assets/img/screenshot-desktop.png" width="100%">
